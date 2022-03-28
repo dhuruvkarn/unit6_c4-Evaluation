@@ -1,0 +1,14 @@
+.Home {
+    margin: 0px 10px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+.nav {
+    font-size: 20px;
+    background-color: black;
+    font-weight: bold;
+    height: 3rem;
+
+}
