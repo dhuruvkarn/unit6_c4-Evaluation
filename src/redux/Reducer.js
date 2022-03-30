@@ -22,7 +22,7 @@ export const reducer = (store = init , {type , paylaod}) =>{
         }
         case DESC :{
             
-            let sorted  = store.data)
+            let sorted  = store.data
             sorted.sort((a,b)=>{
                 return b.price - a.price
             })
